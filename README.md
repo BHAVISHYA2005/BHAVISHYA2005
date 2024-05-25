@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on various open-source projects related to cloud
 - 📫 How to reach me @bhavishyaf1u@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?BHAVISHYA2005ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
