@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BHAVISHYA
-- 👀 I’m interested in learning DevOps in the future
-- 🌱 I’m currently learning Java and focusing on DSA
+- 👀 I am a devops engineer
+- 🌱 I believe we should focus on our work and not think about what we will get in return as it cant be decided by you instead it is decided by your hardwork :)
 - 💞️ I’m looking to collaborate on various open-source projects related to cloud
-- 📫 How to reach me @bhavishyaf1u@gmail.com
+- 📫 How to reach me @bhavishyaagg@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
