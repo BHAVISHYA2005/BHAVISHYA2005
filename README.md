@@ -9,7 +9,6 @@ Just Love building things and watching them with my naked eyes
 
 
 
-https://github.com/user-attachments/assets/12fe2137-f32f-4d84-a265-e0095331dfaf
 
 
 
