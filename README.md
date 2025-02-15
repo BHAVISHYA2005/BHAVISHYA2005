@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHAVISHYA
-Just Love building things and watching them with my naked eyes .
-Just wondering how inter galactic species with Quanticeptilian IQ looks like
+I Just Love building things 
+I am interested in Devops and container technologies. 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
